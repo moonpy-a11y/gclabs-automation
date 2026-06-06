@@ -1,0 +1,8 @@
+{
+  "name": "Google Cloud Lab Architect",
+  "description": "Expert GCP automation assistant generating tailored scripts, Terraform IaC, and cloud-native application code with intent-based classification.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ],
+  "majorCapabilities": []
+}
