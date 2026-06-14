@@ -2,11 +2,13 @@
 <img width="800" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# GCLabs Automation
+
+An efficient tool to automate your Google AI Studio applications. Created by [@moonpy-a11y](https://github.com/moonpy-a11y).
 
 This repository contains everything you need to run your AI Studio application locally and deploy it to production.
 
-**View your app in AI Studio:** https://ai.studio/apps/2479aa9e-3963-4fed-af0b-8d40d37d6064
+**Note:** This project is not affiliated with or endorsed by Google. It is an independent tool designed to work with Google AI Studio APIs.
 
 ---
 
@@ -213,6 +215,7 @@ Contributions are welcome! Please follow these steps:
 - Use `.env.local.example` to document required environment variables
 - Rotate API keys regularly
 - Use different API keys for development and production
+- When using Google AI APIs, ensure you comply with [Google's Terms of Service](https://ai.google.dev/terms)
 
 ---
 
@@ -221,6 +224,7 @@ Contributions are welcome! Please follow these steps:
 - [Google AI Studio Documentation](https://ai.google.dev)
 - [Gemini API Documentation](https://ai.google.dev/docs)
 - [Node.js Documentation](https://nodejs.org/docs)
+- [Google AI Studio Terms of Service](https://ai.google.dev/terms)
 
 ---
 
@@ -236,6 +240,8 @@ For issues or questions:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Created by [@moonpy-a11y](https://github.com/moonpy-a11y)**
 
 ---
 
