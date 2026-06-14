@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 GCLabs Automation Contributors
+Copyright (c) 2026 moonpy-a11y
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+NOTICE: This project uses Google AI Studio APIs. Users of this software must
+comply with Google's Terms of Service (https://ai.google.dev/terms) and any
+applicable API usage policies.
+
+This project is not affiliated with or endorsed by Google.
